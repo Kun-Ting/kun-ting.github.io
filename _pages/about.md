@@ -18,10 +18,14 @@ News
 ======
 ### 2021
   * 23 Nov - Received a Special Recognition for Outstanding Reviews for ACM CHI 2022 full paper.      
-  * 25-27 Oct - Attended IEEE VIS 2021, and
+  * 24-29 Oct - Attended IEEE VIS 2021, and
       * Attended local satellite site at [MelVis](https://docs.google.com/document/d/e/2PACX-1vTJAGjKxA1GNb7bzanq3G1mALT9v2nr-rRHBkwl4AkmYtmEUHwBnsHySO-pHn-dWUnMogz6UZk2IykN/pub)
       * Presented a paper <em>[Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies](https://www.youtube.com/watch?v=Z-a4SPdw-5Q&feature=youtu.be)</em>
       * Selected as IEEE VIS Student Volunteers Organising Co-chair for 2022-2023.
+  * 14-18 June - Attended EuroVis 2021 and supported the conference as a student volunteer captain
+  * 8-13 May - Attended ACM CHI 2021, and
+      * Presented a paper <em>[It's a Wrap: Toroidal Wrapping of Network Visualisations Supports Cluster Understanding Tasks](https://www.youtube.com/watch?v=5oQPyIc1eF8&feature=youtu.be)</em>
+      * Supported the conference as a student volunteer captain
   
 
 Publications
