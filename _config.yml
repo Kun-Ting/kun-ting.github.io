@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?user=c8X6-AsAAAAJ&hl=en"
-  email            :
+  email            : "kun-ting.chen@monash.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/Kun-Ting-Chen-3"
   uri              :
   bitbucket        :
@@ -106,14 +106,14 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://observablehq.com/@kun-ting
   steam            :
   tumblr           :
   twitter          : "kuntingchen1"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCDVb3Cn9_N7rFOY-eNReQkA"
   wikipedia        :
 
 
