@@ -18,6 +18,7 @@ Publications
 ======
 ### Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies 
 [![IMAGE ALT TEXT](/images/rotateorwrap.png)](https://www.youtube.com/watch?v=Z-a4SPdw-5Q&feature=youtu.be "Rotate or Wrap?")
+
 <strong>Kun-Ting Chen</strong>, Tim Dwyer, Benjamin Bach, Kim Marriott, IEEE Transactions on Visualization and Computer Graphics, (VIS'21)
 
 [play](https://ialab.it.monash.edu/~kche0088/WrappingChart/)
@@ -27,6 +28,7 @@ Publications
 
 ### It's a Wrap: Toroidal Wrapping of Network Visualisations Supports Cluster Understanding Tasks
 [![IMAGE ALT TEXT](/images/itsawrap.png)](https://www.youtube.com/watch?v=5oQPyIc1eF8&feature=youtu.be "It's a Wrap")
+
 <strong>Kun-Ting Chen</strong>, Tim Dwyer, Benjamin Bach, Kim Marriott, Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'21)
 
 [play](https://ialab.it.monash.edu/~kche0088/its-a-wrap/index.html)
@@ -36,6 +38,7 @@ Publications
 
 ### DoughNets: Visualising Networks Using Torus Wrapping
 [![IMAGE ALT TEXT](/images/DoughNets.png)](https://www.youtube.com/watch?v=u_aDgSMUz6k "DoughNets")
+
 <strong>Kun-Ting Chen</strong>, Tim Dwyer, Kim Marriott, Benjamin Bach, Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)
 
 [play](https://www.researchgate.net/profile/Kun-Ting-Chen-3/publication/339717273_DoughNets_Visualising_Networks_Using_Torus_Wrapping/links/5e60f01a92851c7d6f223a02/DoughNets-Visualising-Networks-Using-Torus-Wrapping.pdf)
