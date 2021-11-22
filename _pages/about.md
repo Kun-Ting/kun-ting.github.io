@@ -47,6 +47,7 @@ Publications
 
 ### Data as Delights: Eating Data
 <img src='/images/dataasdelights.jfif'>
+Image source: [EdiPulse](https://dl.acm.org/doi/10.1145/3025453.3025980)
 
 Florian 'Floyd' Mueller, Tim Dwyer, Sarah Goodwin, Kim Marriott, Jialin Deng, Han D. Phan, Jionghao Lin, <strong>Kun-Ting Chen</strong>, Yan Wang, Rohit Ashok Khot, Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI'21)
 
