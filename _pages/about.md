@@ -21,6 +21,7 @@ News
   * 25-27 Oct - Attended IEEE VIS 2021, and
       * attended MelVis
       * Presented a paper <em>[Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies](https://www.youtube.com/watch?v=Z-a4SPdw-5Q&feature=youtu.be)</em>
+      * Selected as IEEE VIS Student Volunteers Organising Co-chair for 2022-2023.
   
 
 Publications
