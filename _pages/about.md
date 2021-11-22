@@ -35,8 +35,9 @@ Publications
 
 <strong>Kun-Ting Chen</strong>, Tim Dwyer, Benjamin Bach, Kim Marriott, IEEE Transactions on Visualization and Computer Graphics, (VIS'21)
 
-[play](https://ialab.it.monash.edu/~kche0088/WrappingChart/)
-[pre-print](https://www.researchgate.net/profile/Kun-Ting-Chen-3/publication/354944660_Rotate_or_Wrap_Interactive_Visualisations_of_Cyclical_Data_on_Cylindrical_or_Toroidal_Topologies/links/61584b2b4a82eb7cb5e469eb/Rotate-or-Wrap-Interactive-Visualisations-of-Cyclical-Data-on-Cylindrical-or-Toroidal-Topologies.pdf)
+[Play](https://ialab.it.monash.edu/~kche0088/WrappingChart/)
+[Notebook](https://observablehq.com/@kun-ting/rotate-or-wrap/2)
+[Pre-print](https://www.researchgate.net/profile/Kun-Ting-Chen-3/publication/354944660_Rotate_or_Wrap_Interactive_Visualisations_of_Cyclical_Data_on_Cylindrical_or_Toroidal_Topologies/links/61584b2b4a82eb7cb5e469eb/Rotate-or-Wrap-Interactive-Visualisations-of-Cyclical-Data-on-Cylindrical-or-Toroidal-Topologies.pdf)
 
 <hr style="border:0.5px solid gray"> 
 
@@ -45,8 +46,9 @@ Publications
 
 <strong>Kun-Ting Chen</strong>, Tim Dwyer, Benjamin Bach, Kim Marriott, Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI'21)
 
-[play](https://ialab.it.monash.edu/~kche0088/its-a-wrap/index.html)
-[pre-print](https://www.researchgate.net/profile/Kun-Ting-Chen-3/publication/348620236_It's_a_Wrap_Toroidal_Wrapping_of_Network_Visualisations_Supports_Cluster_Understanding_Tasks/links/6007d5d5a6fdccdcb868b2ef/Its-a-Wrap-Toroidal-Wrapping-of-Network-Visualisations-Supports-Cluster-Understanding-Tasks.pdf)
+[Play](https://ialab.it.monash.edu/~kche0088/its-a-wrap/index.html)
+[Notebook](https://observablehq.com/@kun-ting/its-a-wrap)
+[Pre-print](https://www.researchgate.net/profile/Kun-Ting-Chen-3/publication/348620236_It's_a_Wrap_Toroidal_Wrapping_of_Network_Visualisations_Supports_Cluster_Understanding_Tasks/links/6007d5d5a6fdccdcb868b2ef/Its-a-Wrap-Toroidal-Wrapping-of-Network-Visualisations-Supports-Cluster-Understanding-Tasks.pdf)
 
 <hr style="border:0.5px solid gray">
 
@@ -56,7 +58,7 @@ Image source: [EdiPulse](https://dl.acm.org/doi/10.1145/3025453.3025980)
 
 Florian 'Floyd' Mueller, Tim Dwyer, Sarah Goodwin, Kim Marriott, Jialin Deng, Han D. Phan, Jionghao Lin, <strong>Kun-Ting Chen</strong>, Yan Wang, Rohit Ashok Khot, Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI'21)
 
-[pre-print](https://exertiongameslab.org/wp-content/uploads/2021/03/data_as_delight_chi2021.pdf)
+[Pre-print](https://exertiongameslab.org/wp-content/uploads/2021/03/data_as_delight_chi2021.pdf)
 
 <hr style="border:0.5px solid gray"> 
 
@@ -65,6 +67,7 @@ Florian 'Floyd' Mueller, Tim Dwyer, Sarah Goodwin, Kim Marriott, Jialin Deng, Ha
 
 <strong>Kun-Ting Chen</strong>, Tim Dwyer, Kim Marriott, Benjamin Bach, Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)
 
-[demo](https://ialab.it.monash.edu/~kche0088/WebCola/examples/torusgraphexample.html)
-[play](https://www.researchgate.net/profile/Kun-Ting-Chen-3/publication/339717273_DoughNets_Visualising_Networks_Using_Torus_Wrapping/links/5e60f01a92851c7d6f223a02/DoughNets-Visualising-Networks-Using-Torus-Wrapping.pdf)
+[Play](https://ialab.it.monash.edu/~kche0088/WebCola/examples/torusgraphexample.html)
+[Notebook](https://observablehq.com/@torus/doughnets)
+[Pre-print](https://www.researchgate.net/profile/Kun-Ting-Chen-3/publication/339717273_DoughNets_Visualising_Networks_Using_Torus_Wrapping/links/5e60f01a92851c7d6f223a02/DoughNets-Visualising-Networks-Using-Torus-Wrapping.pdf)
 
