@@ -41,7 +41,6 @@ Publications
 
 Florian 'Floyd' Mueller, Tim Dwyer, Sarah Goodwin, Kim Marriott, Jialin Deng, Han D. Phan, Jionghao Lin, <strong>Kun-Ting Chen</strong>, Yan Wang, Rohit Ashok Khot, Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI'21)
 
-[play](https://ialab.it.monash.edu/~kche0088/its-a-wrap/index.html)
 [pre-print](https://exertiongameslab.org/wp-content/uploads/2021/03/data_as_delight_chi2021.pdf)
 
 <hr style="border:0.5px solid gray"> 
