@@ -16,11 +16,17 @@ Before joining Monash University, I was working as a software engineer in [MSI G
 
 Publications
 ======
-### Rotate or Wrap
+### Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies
+Kun-Ting Chen, Tim Dwyer, Benjamin Bach, Kim Marriott
+IEEE Transactions on Visualization and Computer Graphics, (VIS'21)
 Short description of portfolio item number 1<br/><img src='/images/rotateorwrap.png'>
 
-### It's a Wrap
+### It's a Wrap: Toroidal Wrapping of Network Visualisations Supports Cluster Understanding Tasks
+Kun-Ting Chen, Tim Dwyer, Benjamin Bach, Kim Marriott
+Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'21)
 Short description of portfolio item number 1<br/><img src='/images/itsawrap.png'>
 
-### DoughNets
+### DoughNets: Visualising Networks Using Torus Wrapping
+Kun-Ting Chen, Tim Dwyer, Kim Marriott, Benjamin Bach
+Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)
 Short description of portfolio item number 1<br/><img src='/images/DoughNets.png'>
