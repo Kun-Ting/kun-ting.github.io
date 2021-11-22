@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com.au/citations?user=c8X6-AsAAAAJ&hl=en"
   email            : "kun-ting.chen@monash.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/Kun-Ting-Chen-3"
-  uri              :
+  uri              : "https://observablehq.com/@kun-ting"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -106,14 +106,14 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://observablehq.com/@kun-ting
+  stackoverflow    : # https://observablehq.com/@kun-ting
   steam            :
   tumblr           :
   twitter          : "kuntingchen1"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCDVb3Cn9_N7rFOY-eNReQkA"
+  youtube          : # "https://www.youtube.com/channel/UCDVb3Cn9_N7rFOY-eNReQkA"
   wikipedia        :
 
 
