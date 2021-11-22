@@ -17,18 +17,10 @@ Before joining Monash University, I was working as a software engineer in [MSI G
 News
 ======
 ### 2021
-  * 23 Nov - Received a Special Recognition for Outstanding Reviews for ACM CHI 2022 full paper. 
-#      * List item one 
-#          * List item one
-#          * List item two
-#          * List item three
-#          * List item four
-#      * List item two
-#      * List item three
-#      * List item four
-#  * List item two
-#  * List item three
-#  * List item four
+  * 23 Nov - Received a Special Recognition for Outstanding Reviews for ACM CHI 2022 full paper.      
+  * 25-27 Oct - Attended IEEE VIS 2021, and
+      * attended MelVis
+      * Presented a paper
   
 
 Publications
