@@ -20,7 +20,7 @@ News
   * 23 Nov - Received a Special Recognition for Outstanding Reviews for ACM CHI 2022 full paper.      
   * 25-27 Oct - Attended IEEE VIS 2021, and
       * attended MelVis
-      * Presented a paper
+      * Presented a paper <em>[Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies](https://www.youtube.com/watch?v=Z-a4SPdw-5Q&feature=youtu.be)</em>
   
 
 Publications
