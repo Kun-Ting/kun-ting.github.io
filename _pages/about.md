@@ -14,6 +14,23 @@ My thesis concerns 2D visualizations using 3D metaphor for interactive wrapping 
 
 Before joining Monash University, I was working as a software engineer in [MSI Global](https://msi-global.com.sg/) (2017-2019) and [Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en.html) (2015-2017), an agile Scrum player and device owner of Automatic Fare Collection (AFC) software, developing and maintaining AFC software in use in production for bus and MRT systems in Singapore, Bangkok, and Manila. The enthusiasm and significant software development skills allowed me to work with teams to successfully deploy the software applications system-wide in more than 50 Skytrain stations and depots in Bangkok Mass Transit System ([BTS](https://www.bts.co.th/eng/)).
 
+News
+======
+### 2021
+  * 23 Nov - Received a Special Recognition for Outstanding Reviews for ACM CHI 2022 full paper. 
+#      * List item one 
+#          * List item one
+#          * List item two
+#          * List item three
+#          * List item four
+#      * List item two
+#      * List item three
+#      * List item four
+#  * List item two
+#  * List item three
+#  * List item four
+  
+
 Publications
 ======
 ### Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies 
