@@ -29,7 +29,7 @@ Publications
 ### It's a Wrap: Toroidal Wrapping of Network Visualisations Supports Cluster Understanding Tasks
 [![IMAGE ALT TEXT](/images/itsawrap.png)](https://www.youtube.com/watch?v=5oQPyIc1eF8&feature=youtu.be "It's a Wrap")
 
-<strong>Kun-Ting Chen</strong>, Tim Dwyer, Benjamin Bach, Kim Marriott, Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'21)
+<strong>Kun-Ting Chen</strong>, Tim Dwyer, Benjamin Bach, Kim Marriott, Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI'21)
 
 [play](https://ialab.it.monash.edu/~kche0088/its-a-wrap/index.html)
 [pre-print](https://www.researchgate.net/profile/Kun-Ting-Chen-3/publication/348620236_It's_a_Wrap_Toroidal_Wrapping_of_Network_Visualisations_Supports_Cluster_Understanding_Tasks/links/6007d5d5a6fdccdcb868b2ef/Its-a-Wrap-Toroidal-Wrapping-of-Network-Visualisations-Supports-Cluster-Understanding-Tasks.pdf)
@@ -39,7 +39,7 @@ Publications
 ### Data as Delights: Eating Data
 <img src='/images/500x300.png'></img>
 
-Florian 'Floyd' Mueller, Tim Dwyer, Sarah Goodwin, Kim Marriott, Jialin Deng, Han D. Phan, Jionghao Lin, <strong>Kun-Ting Chen</strong>, Yan Wang, Rohit Ashok Khot, Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'21)
+Florian 'Floyd' Mueller, Tim Dwyer, Sarah Goodwin, Kim Marriott, Jialin Deng, Han D. Phan, Jionghao Lin, <strong>Kun-Ting Chen</strong>, Yan Wang, Rohit Ashok Khot, Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI'21)
 
 [play](https://ialab.it.monash.edu/~kche0088/its-a-wrap/index.html)
 [pre-print](https://exertiongameslab.org/wp-content/uploads/2021/03/data_as_delight_chi2021.pdf)
