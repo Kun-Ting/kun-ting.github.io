@@ -16,6 +16,11 @@ Before joining Monash University, I was working as a software engineer in [MSI G
 
 Publications
 ======
+### Rotate or Wrap
 Short description of portfolio item number 1<br/><img src='/images/rotateorwrap.png'>
+
+### It's a Wrap
 Short description of portfolio item number 1<br/><img src='/images/itsawrap.png'>
+
+### DoughNets
 Short description of portfolio item number 1<br/><img src='/images/DoughNets.png'>
