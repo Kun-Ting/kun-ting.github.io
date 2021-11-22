@@ -16,17 +16,15 @@ Before joining Monash University, I was working as a software engineer in [MSI G
 
 Publications
 ======
-### Rotate or Wrap?
-Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies
-Kun-Ting Chen, Tim Dwyer, Benjamin Bach, Kim Marriott
-IEEE Transactions on Visualization and Computer Graphics, (VIS'21)
-
 [![IMAGE ALT TEXT](/images/rotateorwrap.png)](https://www.youtube.com/watch?v=Z-a4SPdw-5Q&feature=youtu.be "Rotate or Wrap?")
+<em>Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies</em>, <strong>Kun-Ting Chen</strong>, Tim Dwyer, Benjamin Bach, Kim Marriott, IEEE Transactions on Visualization and Computer Graphics, (VIS'21)
 
 [pre-print](https://www.researchgate.net/profile/Kun-Ting-Chen-3/publication/354944660_Rotate_or_Wrap_Interactive_Visualisations_of_Cyclical_Data_on_Cylindrical_or_Toroidal_Topologies/links/61584b2b4a82eb7cb5e469eb/Rotate-or-Wrap-Interactive-Visualisations-of-Cyclical-Data-on-Cylindrical-or-Toroidal-Topologies.pdf)
 
 [demo](https://ialab.it.monash.edu/~kche0088/WrappingChart/)
 Short description of portfolio item number 1<br/><img src='/images/rotateorwrap.png'>
+
+<hr />
 
 ### It's a Wrap
 Toroidal Wrapping of Network Visualisations Supports Cluster Understanding Tasks
@@ -37,6 +35,8 @@ Short description of portfolio item number 1<br/><img src='/images/itsawrap.png'
 [pre-print](https://www.researchgate.net/profile/Kun-Ting-Chen-3/publication/348620236_It's_a_Wrap_Toroidal_Wrapping_of_Network_Visualisations_Supports_Cluster_Understanding_Tasks/links/6007d5d5a6fdccdcb868b2ef/Its-a-Wrap-Toroidal-Wrapping-of-Network-Visualisations-Supports-Cluster-Understanding-Tasks.pdf)
 
 [demo](https://ialab.it.monash.edu/~kche0088/its-a-wrap/index.html)
+
+<hr />
 
 ### DoughNets
 Visualising Networks Using Torus Wrapping
