@@ -37,7 +37,7 @@ Publications
 
 [Play](https://ialab.it.monash.edu/~kche0088/WrappingChart/)
 [Notebook](https://observablehq.com/@kun-ting/rotate-or-wrap/2)
-[Pre-print](https://www.researchgate.net/profile/Kun-Ting-Chen-3/publication/354944660_Rotate_or_Wrap_Interactive_Visualisations_of_Cyclical_Data_on_Cylindrical_or_Toroidal_Topologies/links/61584b2b4a82eb7cb5e469eb/Rotate-or-Wrap-Interactive-Visualisations-of-Cyclical-Data-on-Cylindrical-or-Toroidal-Topologies.pdf)
+[Pre-print](http://ialab.it.monash.edu/~kche0088/papers/Chen_Rotate_Or_Wrap_VIS2021.pdf)
 
 <hr style="border:0.5px solid gray"> 
 
@@ -48,7 +48,7 @@ Publications
 
 [Play](https://ialab.it.monash.edu/~kche0088/its-a-wrap/index.html)
 [Notebook](https://observablehq.com/@kun-ting/its-a-wrap)
-[Pre-print](https://www.researchgate.net/profile/Kun-Ting-Chen-3/publication/348620236_It's_a_Wrap_Toroidal_Wrapping_of_Network_Visualisations_Supports_Cluster_Understanding_Tasks/links/6007d5d5a6fdccdcb868b2ef/Its-a-Wrap-Toroidal-Wrapping-of-Network-Visualisations-Supports-Cluster-Understanding-Tasks.pdf)
+[Pre-print](https://ialab.it.monash.edu/~kche0088/papers/chen_Its_a_Wrap_CHI2021.pdf)
 
 <hr style="border:0.5px solid gray">
 
@@ -69,5 +69,5 @@ Florian 'Floyd' Mueller, Tim Dwyer, Sarah Goodwin, Kim Marriott, Jialin Deng, Ha
 
 [Play](https://ialab.it.monash.edu/~kche0088/WebCola/examples/torusgraphexample.html)
 [Notebook](https://observablehq.com/@torus/doughnets)
-[Pre-print](https://www.researchgate.net/profile/Kun-Ting-Chen-3/publication/339717273_DoughNets_Visualising_Networks_Using_Torus_Wrapping/links/5e60f01a92851c7d6f223a02/DoughNets-Visualising-Networks-Using-Torus-Wrapping.pdf)
+[Pre-print](https://ialab.it.monash.edu/~kche0088/papers/chen2020doughnets.pdf)
 
