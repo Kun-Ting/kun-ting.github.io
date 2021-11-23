@@ -23,7 +23,7 @@ News
       * Presented a paper <em>[Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies](https://www.youtube.com/watch?v=Z-a4SPdw-5Q&feature=youtu.be)</em>
       * Selected as IEEE VIS Student Volunteers Organising Co-chair for 2022-2023.
   * 14-18 June - Attended EuroVis 2021 and supported the conference as a student volunteer captain
-  * June - Attended Monash Faculty of Information Three Minute Thesis 2021 ([3MT](https://www.monash.edu/3mt))
+  * June - Attended Monash Faculty of Information Three Minute Thesis ([3MT 2021](https://www.monash.edu/3mt))
       * Presented my three-minute-thesis <em>[It's a Wrap: Using Doughnut Wrapping to Read Data Points](https://www.youtube.com/watch?v=eDZiPbGpNMY)</em> 
   * 8-13 May - Attended ACM CHI 2021, and
       * Presented a paper <em>[It's a Wrap: Toroidal Wrapping of Network Visualisations Supports Cluster Understanding Tasks](https://www.youtube.com/watch?v=5oQPyIc1eF8&feature=youtu.be)</em>
