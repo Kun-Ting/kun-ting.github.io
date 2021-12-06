@@ -30,6 +30,7 @@ News
       * Supported the conference as a student volunteer captain
   
 
+
 Recent Research Gallery
 ======
 ### Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies 
