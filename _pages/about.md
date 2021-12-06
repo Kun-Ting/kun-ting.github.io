@@ -30,7 +30,7 @@ News
       * Supported the conference as a student volunteer captain
   
 
-Publications
+Recent Research Gallery
 ======
 ### Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies 
 [![IMAGE ALT TEXT](/images/rotateorwrap.png)](https://www.youtube.com/watch?v=Z-a4SPdw-5Q&feature=youtu.be "Rotate or Wrap?")
