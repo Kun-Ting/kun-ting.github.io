@@ -71,6 +71,6 @@ Florian 'Floyd' Mueller, Tim Dwyer, Sarah Goodwin, Kim Marriott, Jialin Deng, Ha
 <strong>Kun-Ting Chen</strong>, Tim Dwyer, Kim Marriott, Benjamin Bach, Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)
 
 [Play](https://ialab.it.monash.edu/~kche0088/WebCola/examples/torusgraphexample.html)
-[Notebook](https://observablehq.com/@torus/doughnets)
+[Notebook](https://observablehq.com/@kun-ting/simple-graph-embedding-on-doughnets)
 [Pre-print](https://ialab.it.monash.edu/~kche0088/papers/chen2020doughnets.pdf)
 
