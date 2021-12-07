@@ -13,7 +13,7 @@ main:
 #    url: /portfolio/
 
   - title: "Notebooks"
-    url: /notebooks/
+    url: https://observablehq.com/@kun-ting
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
