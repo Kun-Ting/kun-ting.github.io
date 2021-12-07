@@ -1,5 +1,5 @@
 ---
 layout: forward
-permalink: /plain-redirect/
+permalink: /notebooks/
 target: https://observablehq.com/@kun-ting
 ---
