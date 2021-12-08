@@ -17,7 +17,8 @@ Before joining Monash University, I was working as a software engineer in [MSI G
 News
 ======
 ### 2021
-  * 23 Nov - Received a Special Recognition for Outstanding Reviews for ACM CHI 2022 full paper.      
+  * Dec - Granted a [Global Talent](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/global-talent-visa-858) for permanent residency in Australia.
+  * Nov - Received a **Special Recognition for one Outstanding Review** at ACM CHI 2022.      
   * 24-29 Oct - Attended IEEE VIS 2021, and
       * Attended local satellite site at [MelVis](https://docs.google.com/document/d/e/2PACX-1vTJAGjKxA1GNb7bzanq3G1mALT9v2nr-rRHBkwl4AkmYtmEUHwBnsHySO-pHn-dWUnMogz6UZk2IykN/pub)
       * Presented a paper <em>[Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies](https://www.youtube.com/watch?v=Z-a4SPdw-5Q&feature=youtu.be)</em>
