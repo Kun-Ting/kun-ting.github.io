@@ -77,7 +77,7 @@ Florian 'Floyd' Mueller, Tim Dwyer, Sarah Goodwin, Kim Marriott, Jialin Deng, Ha
 
 <hr style="border:0.5px solid gray"> 
 
-### Network aware load-balancing via parallel VM migration for data centers
+### Network Aware Load-balancing via Parallel VM Migration for Data Centers
 <img src='/images/Network_Aware_Load_Balancing.png'>
 
 <strong>Kun-Ting Chen</strong>, Chien Chen, Po-Hsiang Wang, International Conference on Computer Communication and Networks (ICCCN'14), 2014
