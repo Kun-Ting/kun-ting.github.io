@@ -41,7 +41,7 @@ Recent Research Gallery
 
 [Play](https://ialab.it.monash.edu/~kche0088/WrappingChart/)
 [Notebook](https://observablehq.com/@kun-ting/rotate-or-wrap/2)
-[Study](https://study-dvialib.infotech.monash.edu/static/index.html)
+[Study](https://study-dvialab.infotech.monash.edu:8443/static/index.html)
 [Pre-print](http://ialab.it.monash.edu/~kche0088/papers/Chen_Rotate_Or_Wrap_VIS2021.pdf)
 
 <hr style="border:0.5px solid gray"> 
