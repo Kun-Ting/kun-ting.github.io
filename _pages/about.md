@@ -37,7 +37,7 @@ Recent Research Gallery
 ### GAN'SDA Wrap: Geographic And Network Structured Data on surfaces that Wrap around 
 [![IMAGE ALT TEXT](/images/GANSDAWrap.JPG)](https://www.youtube.com/watch?v=CyvLCF31WRY)
 
-<strong>Kun-Ting Chen</strong>, Tim Dwyer, Yalong Yang, Benjamin Bach, Kim Marriott, Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI'22), 2022
+<strong>Kun-Ting Chen</strong>, Tim Dwyer, Yalong Yang, Benjamin Bach, Kim Marriott, Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (<strong>CHI 2022</strong>)
 
 [Study](https://study-dvialab.infotech.monash.edu/static/index.html)
 [Pre-print](https://ialab.it.monash.edu/~kche0088/papers/Chen_GAN_SDA_Wrap_CHI2022.pdf)
@@ -47,7 +47,7 @@ Recent Research Gallery
 ### Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies 
 [![IMAGE ALT TEXT](/images/rotateorwrap.png)](https://www.youtube.com/watch?v=Z-a4SPdw-5Q&feature=youtu.be "Rotate or Wrap?")
 
-<strong>Kun-Ting Chen</strong>, Tim Dwyer, Benjamin Bach, Kim Marriott, IEEE Transactions on Visualization and Computer Graphics (VIS'21), 2021
+<strong>Kun-Ting Chen</strong>, Tim Dwyer, Benjamin Bach, Kim Marriott, IEEE Transactions on Visualization and Computer Graphics (<strong>VIS 2021</strong>)
 
 [Play](https://ialab.it.monash.edu/~kche0088/WrappingChart/)
 [Notebook](https://observablehq.com/@kun-ting/rotate-or-wrap/2)
@@ -59,7 +59,7 @@ Recent Research Gallery
 ### It's a Wrap: Toroidal Wrapping of Network Visualisations Supports Cluster Understanding Tasks
 [![IMAGE ALT TEXT](/images/itsawrap.png)](https://www.youtube.com/watch?v=5oQPyIc1eF8&feature=youtu.be "It's a Wrap")
 
-<strong>Kun-Ting Chen</strong>, Tim Dwyer, Benjamin Bach, Kim Marriott, Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI'21), 2021
+<strong>Kun-Ting Chen</strong>, Tim Dwyer, Benjamin Bach, Kim Marriott, Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (<strong>CHI 2021</strong>)
 
 [Play](https://ialab.it.monash.edu/~kche0088/its-a-wrap/index.html)
 [Notebook](https://observablehq.com/@kun-ting/its-a-wrap)
@@ -71,7 +71,7 @@ Recent Research Gallery
 <img src='/images/dataasdelights.jfif'>
 Image source: [EdiPulse](https://dl.acm.org/doi/10.1145/3025453.3025980)
 
-Florian 'Floyd' Mueller, Tim Dwyer, Sarah Goodwin, Kim Marriott, Jialin Deng, Han D. Phan, Jionghao Lin, <strong>Kun-Ting Chen</strong>, Yan Wang, Rohit Ashok Khot, Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI'21), 2021
+Florian 'Floyd' Mueller, Tim Dwyer, Sarah Goodwin, Kim Marriott, Jialin Deng, Han D. Phan, Jionghao Lin, <strong>Kun-Ting Chen</strong>, Yan Wang, Rohit Ashok Khot, Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (<strong>CHI 2021</strong>)
 
 [Pre-print](https://exertiongameslab.org/wp-content/uploads/2021/03/data_as_delight_chi2021.pdf)
 
@@ -80,7 +80,7 @@ Florian 'Floyd' Mueller, Tim Dwyer, Sarah Goodwin, Kim Marriott, Jialin Deng, Ha
 ### DoughNets: Visualising Networks Using Torus Wrapping
 [![IMAGE ALT TEXT](/images/DoughNets.png)](https://www.youtube.com/watch?v=u_aDgSMUz6k "DoughNets")
 
-<strong>Kun-Ting Chen</strong>, Tim Dwyer, Kim Marriott, Benjamin Bach, Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20), 2020
+<strong>Kun-Ting Chen</strong>, Tim Dwyer, Kim Marriott, Benjamin Bach, Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (<strong>CHI 2020</strong>)
 
 [Play](https://ialab.it.monash.edu/~kche0088/WebCola/examples/torusgraphexample.html)
 [Notebook](https://observablehq.com/@kun-ting/simple-graph-embedding-on-doughnets)
@@ -91,7 +91,7 @@ Florian 'Floyd' Mueller, Tim Dwyer, Sarah Goodwin, Kim Marriott, Jialin Deng, Ha
 ### Network Aware Load-balancing via Parallel VM Migration for Data Centers
 <img src='/images/Network_Aware_Load_Balancing.png'>
 
-<strong>Kun-Ting Chen</strong>, Chien Chen, Po-Hsiang Wang, International Conference on Computer Communication and Networks (ICCCN'14), 2014
+<strong>Kun-Ting Chen</strong>, Chien Chen, Po-Hsiang Wang, International Conference on Computer Communication and Networks (<strong>ICCCN 2014</strong>)
 
 [Pre-print](/files/Chen_network aware load balancing icccn2014_preprint.pdf)
 
