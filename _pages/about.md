@@ -41,7 +41,7 @@ Recent Research Gallery
 
 [Maps Study](https://study-dvialib.infotech.monash.edu/static/index.html)
 [Networks Study](https://study-dvialab.infotech.monash.edu/static/index.html)
-[Pre-print](https://ialab.it.monash.edu/~kche0088/papers/Chen_GAN_SDA_Wrap_CHI2022.pdf)
+[Pre-print](https://arxiv.org/abs/2202.10845)
 
 <hr style="border:0.5px solid gray"> 
 
