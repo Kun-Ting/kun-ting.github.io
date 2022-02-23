@@ -35,7 +35,7 @@ News
 Recent Research Gallery
 ======
 ### GAN'SDA Wrap: Geographic And Network Structured Data on surfaces that Wrap around 
-[![IMAGE ALT TEXT](/images/GANSDAWrap.JPG)](https://www.youtube.com/watch?v=YC2yUlzecoU)
+[![IMAGE ALT TEXT](/images/GANSDAWrap.JPG)](https://www.youtube.com/watch?v=aN8kps-hRpk)
 
 <strong>Kun-Ting Chen</strong>, Tim Dwyer, Yalong Yang, Benjamin Bach, Kim Marriott, Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (<strong>CHI 2022</strong>)
 
