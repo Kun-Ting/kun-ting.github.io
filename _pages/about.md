@@ -39,6 +39,8 @@ Recent Research Gallery
 
 <strong>Kun-Ting Chen</strong>, Tim Dwyer, Yalong Yang, Benjamin Bach, Kim Marriott, Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (<strong>CHI 2022</strong>)
 
+[Maps Play](https://ialab.it.monash.edu/~kche0088/mapprojectionstudy/map_projection_distance_gallery_random_trials.html)
+[Networks Play](https://ialab.it.monash.edu/~kche0088/spherebeattorus/map_projection_network_gallery_pairwise.html)
 [Maps Study](https://study-dvialib.infotech.monash.edu/static/index.html)
 [Networks Study](https://study-dvialab.infotech.monash.edu/static/index.html)
 [Pre-print](https://arxiv.org/abs/2202.10845)
