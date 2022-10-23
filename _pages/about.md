@@ -34,6 +34,15 @@ News
 
 Recent Research Gallery
 ======
+### It's a Wrap: Visualisations that Wrap Around Cylindrical, Toroidal, or Spherical Topologies 
+[![IMAGE ALT TEXT](/images/its_a_wrap.jpg)](https://www.youtube.com/watch?v=F0fdmccl_-U)
+
+<strong>Kun-Ting Chen</strong>, Dissertation, Monash University
+
+[Pre-print](https://arxiv.org/abs/2209.13251)
+
+<hr style="border:0.5px solid gray"> 
+
 ### GAN'SDA Wrap: Geographic And Network Structured Data on surfaces that Wrap around 
 [![IMAGE ALT TEXT](/images/GANSDAWrap.JPG)](https://www.youtube.com/watch?v=aN8kps-hRpk)
 
