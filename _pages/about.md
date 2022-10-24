@@ -37,7 +37,8 @@ Recent Research Gallery
 ### It's a Wrap: Visualisations that Wrap Around Cylindrical, Toroidal, or Spherical Topologies 
 [![IMAGE ALT TEXT](/images/its_a_wrap.jpg)](https://www.youtube.com/watch?v=F0fdmccl_-U)
 
-<strong>Kun-Ting Chen</strong>, Monash University thesis, 2022
+<strong>Kun-Ting Chen</strong>, Doctoral dissertation, Monash University, 2022
+
 
 [Pre-print](https://arxiv.org/abs/2209.13251)
 
