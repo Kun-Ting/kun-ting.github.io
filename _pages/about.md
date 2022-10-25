@@ -63,7 +63,7 @@ Recent Research Gallery
 <strong>Kun-Ting Chen</strong>, Tim Dwyer, Benjamin Bach, Kim Marriott, IEEE Transactions on Visualization and Computer Graphics (<strong>VIS 2021</strong>)
 
 [Play](https://ialab.it.monash.edu/~kche0088/WrappingChart/)
-[Notebook](https://observablehq.com/@kun-ting/rotate-or-wrap/2)
+[Notebook](https://observablehq.com/@kun-ting/rotate-or-wrap)
 [Study](https://study-dvialab.infotech.monash.edu:8443/static/index.html)
 [Pre-print](http://ialab.it.monash.edu/~kche0088/papers/Chen_Rotate_Or_Wrap_VIS2021.pdf)
 
