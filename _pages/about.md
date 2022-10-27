@@ -17,18 +17,18 @@ Before joining Monash University, I was working as a software engineer in [MSI G
 News
 ======
 ### 2022
-  * Full year: Served as a Student Volunteer Organisation Co-chair for [IEEE VIS 2022](https://ieeevis.org/year/2022/welcome).
-  * Sep - Presented my research: <em>[It's a Wrap: Visualisations that Wrap Around Cylindrical, Toroidal, or Spherical Topologies](https://bridges.monash.edu/articles/thesis/It_s_a_Wrap_Visualisations_that_Wrap_Around_Cylindrical_Toroidal_or_Spherical_Topologies/20723092)</em> at Visualisation Community within the [Defence Science and Technology Group](https://www.dst.defence.gov.au/).
+  * Full year: Served as a **Student Volunteer Organisation Co-chair** for [IEEE VIS 2022](https://ieeevis.org/year/2022/welcome)
+  * Sep - Presented my research: <em>[It's a Wrap: Visualisations that Wrap Around Cylindrical, Toroidal, or Spherical Topologies](https://bridges.monash.edu/articles/thesis/It_s_a_Wrap_Visualisations_that_Wrap_Around_Cylindrical_Toroidal_or_Spherical_Topologies/20723092)</em> at Visualisation Community within the [Defence Science and Technology Group](https://www.dst.defence.gov.au/)
       * Conferred the award Doctor Of Philosophy of Faculty of Information Technology, Monash University
   * Jun - Started a PostDoc position at [Visualisation Research Centre (VISUS)](https://www.visus.uni-stuttgart.de/en/), University of Stuttgart
 
 ### 2021
-  * Dec - Granted a [Global Talent Program](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/global-talent-visa-858) for a permanent residency in Australia.
-  * Nov - Received a **Special Recognition for one Outstanding Review** at ACM CHI 2022.      
+  * Dec - Granted a [Global Talent Program](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/global-talent-visa-858) for a permanent residency in Australia
+  * Nov - Received a **Special Recognition for one Outstanding Review** at ACM CHI 2022   
   * 24-29 Oct - Attended IEEE VIS 2021, and
       * Attended local satellite site at [MelVis](https://docs.google.com/document/d/e/2PACX-1vTJAGjKxA1GNb7bzanq3G1mALT9v2nr-rRHBkwl4AkmYtmEUHwBnsHySO-pHn-dWUnMogz6UZk2IykN/pub)
       * Presented a paper <em>[Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies](https://www.youtube.com/watch?v=Z-a4SPdw-5Q&feature=youtu.be)</em>
-      * Invited to serve as an IEEE VIS **Student Volunteers Organising Co-chair** for 2022-2023.
+      * Invited to serve as an IEEE VIS **Student Volunteers Organising Co-chair** for 2022-2023
   * 14-18 June - Attended EuroVis 2021 and supported the conference as a student volunteer captain
   * June - Attended Monash Faculty of Information - Three Minute Thesis ([3MT 2021](https://www.monash.edu/3mt))
       * Presented my three-minute-thesis <em>[It's a Wrap: Using Doughnut Wrapping to Read Data Points](https://www.youtube.com/watch?v=eDZiPbGpNMY)</em> 
