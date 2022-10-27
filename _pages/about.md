@@ -16,6 +16,12 @@ Before joining Monash University, I was working as a software engineer in [MSI G
 
 News
 ======
+### 2022
+  * Full year: Served as a Student Volunteer Organisation Co-chair for [IEEE VIS 2022](https://ieeevis.org/year/2022/welcome).
+  * Sep - Presented my research at Visualisation Community within the [Defence Science and Technology Group](https://www.dst.defence.gov.au/).
+      * Conferred the award Doctor Of Philosophy of Faculty of Information Technology, Monash University
+  * Jun - Started a PostDoc position at [Visualisation Research Centre (VISUS)](https://www.visus.uni-stuttgart.de/en/), University of Stuttgart
+
 ### 2021
   * Dec - Granted a [Global Talent Program](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/global-talent-visa-858) for a permanent residency in Australia.
   * Nov - Received a **Special Recognition for one Outstanding Review** at ACM CHI 2022.      
