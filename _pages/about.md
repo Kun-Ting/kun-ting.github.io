@@ -20,7 +20,7 @@ News
   * Full year: Served as a **Student Volunteer Organisation Co-chair** for [IEEE VIS 2022](https://ieeevis.org/year/2022/welcome)
   * Sep - Presented my research: <em>[It's a Wrap: Visualisations that Wrap Around Cylindrical, Toroidal, or Spherical Topologies](https://bridges.monash.edu/articles/thesis/It_s_a_Wrap_Visualisations_that_Wrap_Around_Cylindrical_Toroidal_or_Spherical_Topologies/20723092)</em> at Visualisation Community within the [Defence Science and Technology Group](https://www.dst.defence.gov.au/)
       * Awarded a **PhD degree** of Faculty of Information Technology, Monash University
-  * Jul - Co-organised the largest SommerFest 2022 for the [Institute for Visualisation and Interactive Systems (VIS)](https://www.vis.uni-stuttgart.de/en/) at University of Stuttgart
+  * Jul - Co-organised SommerFest 2022 for the [Institute for Visualisation and Interactive Systems (VIS)](https://www.vis.uni-stuttgart.de/en/) at University of Stuttgart
   * Jun - Started a PostDoc position at [Visualisation Research Centre (VISUS)](https://www.visus.uni-stuttgart.de/en/), University of Stuttgart
 
 ### 2021
