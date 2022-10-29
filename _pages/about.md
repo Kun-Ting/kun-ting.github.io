@@ -22,6 +22,8 @@ News
       * Awarded a **PhD degree** of Faculty of Information Technology, Monash University
   * Jul - Co-organised SommerFest 2022 for the [Institute for Visualisation and Interactive Systems (VIS)](https://www.vis.uni-stuttgart.de/en/) at University of Stuttgart
   * Jun - Started a PostDoc position at [Visualisation Research Centre (VISUS)](https://www.visus.uni-stuttgart.de/en/), University of Stuttgart
+  * 29 Apr-5 May - Attended ACM CHI 2022, and
+      * Presented a paper <em>[GAN'SDA Wrap: Geographic And Network Structured Data on surfaces that Wrap around](https://www.youtube.com/watch?v=aN8kps-hRpk)</em>
 
 ### 2021
   * Dec - Granted a [Global Talent Program](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/global-talent-visa-858) for a permanent residency in Australia
