@@ -43,7 +43,7 @@ News
 
 Recent Research Gallery
 ======
-### Reading Strategies for Graph Visualizations thatWrap Around in Torus Topology
+### Reading Strategies for Graph Visualizations that Wrap Around in Torus Topology
 [![IMAGE ALT TEXT](/images/overview_reading_strategy.png)](https://dl.acm.org/doi/pdf/10.1145/3588015.3589841)
 
 <strong>Kun-Ting Chen</strong>, Quynh Quang Ngo, Kuno Kurzhals, Kim Marriott, Michael Sedlmair, Daniel Weiskopf, ACM Symposium on Eye Tracking Research & Applications 2023 (<strong>ETRA 2023</strong>)
