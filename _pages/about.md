@@ -43,6 +43,27 @@ News
 
 Recent Research Gallery
 ======
+### Reading Strategies for Graph Visualizations thatWrap Around in Torus Topology
+[![IMAGE ALT TEXT](/images/overview_reading_strategy.png)](https://dl.acm.org/doi/pdf/10.1145/3588015.3589841)
+
+<strong>Kun-Ting Chen</strong>, Quynh Quang Ngo, Kuno Kurzhals, Kim Marriott, Michael Sedlmair, Daniel Weiskopf, ACM Symposium on Eye Tracking Research & Applications 2023 (<strong>ETRA 2023</strong>)
+
+[Data](https://osf.io/au3bj/)
+[Pre-print](https://dl.acm.org/doi/pdf/10.1145/3588015.3589841)
+
+<hr style="border:0.5px solid gray"> 
+
+### Gazealytics: A Unified and Flexible Visual Toolkit for Exploratory and Comparative Gaze Analysis
+[![IMAGE ALT TEXT](/images/gazealytics.png)](http://github.com/gazealytics/gazealytics-master)
+
+<strong>Kun-Ting Chen</strong>, Arnaud Prouzeau, Joshua Langmead, Ryan T Whitelock-Jones, Lee Lawrence, Tim Dwyer, Christophe Hurter, Daniel Weiskopf, Sarah Goodwin, ACM Symposium on Eye Tracking Research & Applications 2023 (<strong>ETRA 2023</strong>)
+
+[Play](https://www2.visus.uni-stuttgart.de/gazealytics/)
+[GitHub](http://github.com/gazealytics/gazealytics-master)
+[Pre-print](https://dl.acm.org/doi/pdf/10.1145/3588015.3589844)
+
+<hr style="border:0.5px solid gray"> 
+
 ### It's a Wrap: Visualisations that Wrap Around Cylindrical, Toroidal, or Spherical Topologies 
 [![IMAGE ALT TEXT](/images/its_a_wrap.jpg)](https://www.youtube.com/watch?v=F0fdmccl_-U)
 
