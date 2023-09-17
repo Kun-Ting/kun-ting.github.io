@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kun-Ting Chen"
   avatar           : "kuntingchen.jpg"
-  bio              : "Postdoctoral Research Fellow @ VISUS, University of Stuttgart"
-  location         : "Stuttgart, Germany"
+  bio              : "Postdoctoral Research Fellow @ CREST, University of Adelaide"
+  location         : "Adelaide, Australia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=8gpa65AAAAAJ"
-  email            : "kun-ting.chen@visus.uni-stuttgart.de"
+  email            : "kun-ting.chen@adelaide.edu.au"
   researchgate     : "https://www.researchgate.net/profile/Kun-Ting-Chen-3"
   uri              : "https://observablehq.com/@kun-ting"
   bitbucket        :
