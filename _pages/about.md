@@ -62,7 +62,7 @@ Recent Research Gallery
 <strong>Kun-Ting Chen</strong>, Arnaud Prouzeau, Joshua Langmead, Ryan T Whitelock-Jones, Lee Lawrence, Tim Dwyer, Christophe Hurter, Daniel Weiskopf, Sarah Goodwin, ACM Symposium on Eye Tracking Research & Applications 2023 (<strong>ETRA 2023</strong>)
 
 [Play](https://www2.visus.uni-stuttgart.de/gazealytics/)
-[GitHub](http://github.com/gazealytics/gazealytics-master)
+[Sample datasets and video tutorials (GitHub)](http://github.com/gazealytics/gazealytics-master)
 [Pre-print](https://dl.acm.org/doi/pdf/10.1145/3588015.3589844)
 
 <hr style="border:0.5px solid gray"> 
