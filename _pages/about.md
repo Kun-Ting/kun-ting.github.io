@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I'm Kun-Ting Chen, a postdoctoral researcher at [the Centre for Research on Engineering
+Hey, I'm Kun-Ting Chen. I was a postdoctoral researcher at [the Centre for Research on Engineering
 Software Technologies (CREST)](https://www.crest-centre.net/) working with [Ali Babar](https://researchers.adelaide.edu.au/profile/ali.babar) and R&D team at the University
 of Adelaide. I was a postdoctoral researcher at 
 [Visualisation Research Centre of the University of Stuttgart (VISUS)](https://www.visus.uni-stuttgart.de/en/) within [Daniel Weiskopf](https://www.vis.uni-stuttgart.de/institut/team/Weiskopf/)'s group. I received a PhD from [Data Visualisation & Immersive Analytics Lab (DVIA)](https://ialab.it.monash.edu/), [Department of Human-Centred-Computing](https://www.monash.edu/it/hcc) within Monash University, working with [Tim Dwyer](https://ialab.it.monash.edu/~dwyer/), [Kim Marriott](https://research.monash.edu/en/persons/kimbal-marriott), and [Benjamin Bach](https://www.designinformatics.org/person/benjaminbach/). My research interest lies in the intersection of Information visualisation (InfoVis) and Human-Computer Interaction (HCI), researching and developing human-centred interactive visualisations that help people explore complex data. 
