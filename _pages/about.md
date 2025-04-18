@@ -46,6 +46,15 @@ News
 
 Recent Research Gallery
 ======
+### Which Experimental Design is Better Suited for VQA Tasks?: Eye Tracking Study on Cognitive Load, Performance, and Gaze Allocations
+[![IMAGE ALT TEXT](/images/overview_vqa.jpg)](https://dl.acm.org/doi/abs/10.1145/3649902.3653519)
+
+Sita A. Vriend, Sandeep Vidyapu, Amer Rama, <strong>Kun-Ting Chen</strong>, Daniel Weiskopf, ACM Symposium on Eye Tracking Research & Applications 2024 (<strong>ETRA 2024</strong>)
+
+[Pre-print](https://arxiv.org/abs/2404.04036)
+
+<hr style="border:0.5px solid gray"> 
+
 ### Reading Strategies for Graph Visualizations that Wrap Around in Torus Topology
 [![IMAGE ALT TEXT](/images/overview_reading_strategy.png)](https://dl.acm.org/doi/pdf/10.1145/3588015.3589841)
 
